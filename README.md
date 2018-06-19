@@ -8,7 +8,7 @@ Matplotlib - Version: 2.2.2  <br>
 Inputs, Math, Random and Perceptron modules <br>
 
 To execute the classifier: Download the repository and run the Classifier.py file. <br>
-The repository has many files: 
+The repository has many files: <br>
 Perceptron.py - Describes the perceptron architecture <br>
 Classifier.py - The main program for classification <br>
 Points.py - Script to make the dots and lines
